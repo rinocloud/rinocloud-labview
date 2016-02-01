@@ -26,7 +26,7 @@
 		<Item Name="JSON Tree to LabVIEW Type.vi" Type="VI" URL="../JSON Advanced/JSON Tree to LabVIEW Type.vi"/>
 		<Item Name="JSON Tree View.vi" Type="VI" URL="../JSON Advanced/JSON Tree View.vi"/>
 		<Item Name="LabVIEW Type to JSON Tree.vi" Type="VI" URL="../JSON Advanced/LabVIEW Type to JSON Tree.vi"/>
-		<Item Name="Node Type.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Advanced/Node Type.vi"/>
+		<Item Name="Node Type.vi" Type="VI" URL="../JSON Advanced/Node Type.vi"/>
 	</Item>
 	<Item Name="JSON Generation" Type="Folder">
 		<Item Name="Add Object Parameter Files" Type="Folder">
@@ -87,48 +87,48 @@
 	<Item Name="JSON Parsing" Type="Folder">
 		<Item Name="Get Array Value at Index Files" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-			<Item Name="Get Array Value at Index - 1D Array Boolean.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - 1D Array Boolean.vi"/>
-			<Item Name="Get Array Value at Index - 1D Array Double.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - 1D Array Double.vi"/>
-			<Item Name="Get Array Value at Index - 1D Array String.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - 1D Array String.vi"/>
-			<Item Name="Get Array Value at Index - Array.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Array.vi"/>
-			<Item Name="Get Array Value at Index - Boolean.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Boolean.vi"/>
-			<Item Name="Get Array Value at Index - JSON Tree.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - JSON Tree.vi"/>
-			<Item Name="Get Array Value at Index - Known Type.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Known Type.vi"/>
-			<Item Name="Get Array Value at Index - Null.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Null.vi"/>
-			<Item Name="Get Array Value at Index - Numeric.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Numeric.vi"/>
-			<Item Name="Get Array Value at Index - Object.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Object.vi"/>
-			<Item Name="Get Array Value at Index - String.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - String.vi"/>
+			<Item Name="Get Array Value at Index - 1D Array Boolean.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - 1D Array Boolean.vi"/>
+			<Item Name="Get Array Value at Index - 1D Array Double.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - 1D Array Double.vi"/>
+			<Item Name="Get Array Value at Index - 1D Array String.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - 1D Array String.vi"/>
+			<Item Name="Get Array Value at Index - Array.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Array.vi"/>
+			<Item Name="Get Array Value at Index - Boolean.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Boolean.vi"/>
+			<Item Name="Get Array Value at Index - JSON Tree.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - JSON Tree.vi"/>
+			<Item Name="Get Array Value at Index - Known Type.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Known Type.vi"/>
+			<Item Name="Get Array Value at Index - Null.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Null.vi"/>
+			<Item Name="Get Array Value at Index - Numeric.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Numeric.vi"/>
+			<Item Name="Get Array Value at Index - Object.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - Object.vi"/>
+			<Item Name="Get Array Value at Index - String.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index Files/Get Array Value at Index - String.vi"/>
 		</Item>
 		<Item Name="Get Object Parameter Files" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-			<Item Name="Get Object Parameter - 1D Array Boolean.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter Files/Get Object Parameter - 1D Array Boolean.vi"/>
-			<Item Name="Get Object Parameter - 1D Array Double.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter Files/Get Object Parameter - 1D Array Double.vi"/>
-			<Item Name="Get Object Parameter - 1D Array String.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter Files/Get Object Parameter - 1D Array String.vi"/>
-			<Item Name="Get Object Parameter - Array.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter Files/Get Object Parameter - Array.vi"/>
-			<Item Name="Get Object Parameter - Boolean.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter Files/Get Object Parameter - Boolean.vi"/>
-			<Item Name="Get Object Parameter - JSON Tree.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter Files/Get Object Parameter - JSON Tree.vi"/>
-			<Item Name="Get Object Parameter - Known Type.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter Files/Get Object Parameter - Known Type.vi"/>
-			<Item Name="Get Object Parameter - Null.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter Files/Get Object Parameter - Null.vi"/>
-			<Item Name="Get Object Parameter - Numeric.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter Files/Get Object Parameter - Numeric.vi"/>
-			<Item Name="Get Object Parameter - Object.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter Files/Get Object Parameter - Object.vi"/>
-			<Item Name="Get Object Parameter - String.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter Files/Get Object Parameter - String.vi"/>
+			<Item Name="Get Object Parameter - 1D Array Boolean.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter Files/Get Object Parameter - 1D Array Boolean.vi"/>
+			<Item Name="Get Object Parameter - 1D Array Double.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter Files/Get Object Parameter - 1D Array Double.vi"/>
+			<Item Name="Get Object Parameter - 1D Array String.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter Files/Get Object Parameter - 1D Array String.vi"/>
+			<Item Name="Get Object Parameter - Array.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter Files/Get Object Parameter - Array.vi"/>
+			<Item Name="Get Object Parameter - Boolean.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter Files/Get Object Parameter - Boolean.vi"/>
+			<Item Name="Get Object Parameter - JSON Tree.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter Files/Get Object Parameter - JSON Tree.vi"/>
+			<Item Name="Get Object Parameter - Known Type.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter Files/Get Object Parameter - Known Type.vi"/>
+			<Item Name="Get Object Parameter - Null.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter Files/Get Object Parameter - Null.vi"/>
+			<Item Name="Get Object Parameter - Numeric.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter Files/Get Object Parameter - Numeric.vi"/>
+			<Item Name="Get Object Parameter - Object.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter Files/Get Object Parameter - Object.vi"/>
+			<Item Name="Get Object Parameter - String.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter Files/Get Object Parameter - String.vi"/>
 		</Item>
 		<Item Name="Parse JSON Files" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-			<Item Name="EatWhitespace.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Parse JSON Files/EatWhitespace.vi"/>
-			<Item Name="LookAhead.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Parse JSON Files/LookAhead.vi"/>
-			<Item Name="NextToken.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Parse JSON Files/NextToken.vi"/>
-			<Item Name="ParseArray.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Parse JSON Files/ParseArray.vi"/>
-			<Item Name="ParseNumber.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Parse JSON Files/ParseNumber.vi"/>
-			<Item Name="ParseObject.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Parse JSON Files/ParseObject.vi"/>
-			<Item Name="ParseString.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Parse JSON Files/ParseString.vi"/>
-			<Item Name="ParseValue.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Parse JSON Files/ParseValue.vi"/>
-			<Item Name="Token.ctl" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Parse JSON Files/Token.ctl"/>
+			<Item Name="EatWhitespace.vi" Type="VI" URL="../JSON Parsing/Parse JSON Files/EatWhitespace.vi"/>
+			<Item Name="LookAhead.vi" Type="VI" URL="../JSON Parsing/Parse JSON Files/LookAhead.vi"/>
+			<Item Name="NextToken.vi" Type="VI" URL="../JSON Parsing/Parse JSON Files/NextToken.vi"/>
+			<Item Name="ParseArray.vi" Type="VI" URL="../JSON Parsing/Parse JSON Files/ParseArray.vi"/>
+			<Item Name="ParseNumber.vi" Type="VI" URL="../JSON Parsing/Parse JSON Files/ParseNumber.vi"/>
+			<Item Name="ParseObject.vi" Type="VI" URL="../JSON Parsing/Parse JSON Files/ParseObject.vi"/>
+			<Item Name="ParseString.vi" Type="VI" URL="../JSON Parsing/Parse JSON Files/ParseString.vi"/>
+			<Item Name="ParseValue.vi" Type="VI" URL="../JSON Parsing/Parse JSON Files/ParseValue.vi"/>
+			<Item Name="Token.ctl" Type="VI" URL="../JSON Parsing/Parse JSON Files/Token.ctl"/>
 		</Item>
-		<Item Name="Get Array Value at Index.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Array Value at Index.vi"/>
-		<Item Name="Get Object Parameter.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Get Object Parameter.vi"/>
-		<Item Name="JSON Array Size.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/JSON Array Size.vi"/>
-		<Item Name="Parse JSON.vi" Type="VI" URL="/&lt;vilib&gt;/LVH/i3 JSON/JSON Parsing/Parse JSON.vi"/>
+		<Item Name="Get Array Value at Index.vi" Type="VI" URL="../JSON Parsing/Get Array Value at Index.vi"/>
+		<Item Name="Get Object Parameter.vi" Type="VI" URL="../JSON Parsing/Get Object Parameter.vi"/>
+		<Item Name="JSON Array Size.vi" Type="VI" URL="../JSON Parsing/JSON Array Size.vi"/>
+		<Item Name="Parse JSON.vi" Type="VI" URL="../JSON Parsing/Parse JSON.vi"/>
 	</Item>
 	<Item Name="JSON Types" Type="Folder">
 		<Item Name="Internal" Type="Folder">
