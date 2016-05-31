@@ -4,9 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="examples" Type="Folder">
-		<Item Name="subVIs" Type="Folder">
-			<Item Name="Rinocloud_simulator (SubVI).vi" Type="VI" URL="../examples/subVIs/Rinocloud_simulator (SubVI).vi"/>
-		</Item>
+		<Item Name="Basic upload example .vi" Type="VI" URL="../examples/Basic upload example .vi"/>
+		<Item Name="Rinocloud_csv_data_upload.vi" Type="VI" URL="../examples/Rinocloud_csv_data_upload.vi"/>
+		<Item Name="Rinocloud_image_upload.vi" Type="VI" URL="../examples/Rinocloud_image_upload.vi"/>
 		<Item Name="Rinocloud_lab_simulator.vi" Type="VI" URL="../examples/Rinocloud_lab_simulator.vi"/>
 		<Item Name="Rinocloud_real-time_monitoring.vi" Type="VI" URL="../examples/Rinocloud_real-time_monitoring.vi"/>
 	</Item>
@@ -39,14 +39,12 @@
 		<Item Name="Rinocloud_HTTP_update_metadata.vi" Type="VI" URL="../Rinocloud API endpoint VIs/Rinocloud_HTTP_update_metadata.vi"/>
 		<Item Name="Rinocloud_HTTP_upload_file.vi" Type="VI" URL="../Rinocloud API endpoint VIs/Rinocloud_HTTP_upload_file.vi"/>
 	</Item>
-	<Item Name="Rinocloud explorer VIs" Type="Folder">
-		<Item Name="Rinocloud_csv_data_upload.vi" Type="VI" URL="../Rinocloud explorer VIs/Rinocloud_csv_data_upload.vi"/>
-		<Item Name="Rinocloud_get_metadata_field_value.vi" Type="VI" URL="../Rinocloud explorer VIs/Rinocloud_get_metadata_field_value.vi"/>
-		<Item Name="Rinocloud_HTTP_ancestors_to_tree.vi" Type="VI" URL="../Rinocloud explorer VIs/Rinocloud_HTTP_ancestors_to_tree.vi"/>
-		<Item Name="Rinocloud_HTTP_children_to_tree.vi" Type="VI" URL="../Rinocloud explorer VIs/Rinocloud_HTTP_children_to_tree.vi"/>
-		<Item Name="Rinocloud_HTTP_metadata_to_tree.vi" Type="VI" URL="../Rinocloud explorer VIs/Rinocloud_HTTP_metadata_to_tree.vi"/>
-		<Item Name="Rinocloud_image_upload.vi" Type="VI" URL="../Rinocloud explorer VIs/Rinocloud_image_upload.vi"/>
+	<Item Name="Rinocloud browser VIs" Type="Folder">
+		<Item Name="Rinocloud_get_metadata_field_value.vi" Type="VI" URL="../Rinocloud browser VIs/Rinocloud_get_metadata_field_value.vi"/>
+		<Item Name="Rinocloud_HTTP_ancestors_to_tree.vi" Type="VI" URL="../Rinocloud browser VIs/Rinocloud_HTTP_ancestors_to_tree.vi"/>
+		<Item Name="Rinocloud_HTTP_children_to_tree.vi" Type="VI" URL="../Rinocloud browser VIs/Rinocloud_HTTP_children_to_tree.vi"/>
+		<Item Name="Rinocloud_HTTP_metadata_to_tree.vi" Type="VI" URL="../Rinocloud browser VIs/Rinocloud_HTTP_metadata_to_tree.vi"/>
 	</Item>
-	<Item Name="Rinocloud_explorer.vi" Type="VI" URL="../Rinocloud_explorer.vi"/>
+	<Item Name="Rinocloud_browser.vi" Type="VI" URL="../Rinocloud_browser.vi"/>
 	<Item Name="Rinocloud_global_variable.vi" Type="VI" URL="../Rinocloud_global_variable.vi"/>
 </Library>
